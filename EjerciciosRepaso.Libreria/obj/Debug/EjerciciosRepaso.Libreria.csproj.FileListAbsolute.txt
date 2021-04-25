@@ -1,0 +1,6 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso.Libreria\bin\Debug\EjerciciosRepaso.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso.Libreria\bin\Debug\EjerciciosRepaso.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso.Libreria\obj\Debug\EjerciciosRepaso.Libreria.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso.Libreria\obj\Debug\EjerciciosRepaso.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso.Libreria\obj\Debug\EjerciciosRepaso.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso.Libreria\obj\Debug\EjerciciosRepaso.Libreria.pdb

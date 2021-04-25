@@ -1,0 +1,10 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.Consola.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe.config
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\CAI_EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.Consola.csproj.CopyComplete

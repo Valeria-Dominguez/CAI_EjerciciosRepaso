@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciosRepaso", "EjerciciosRepaso\EjerciciosRepaso.csproj", "{A1195A8F-AF87-4D9D-8B31-1F64B8612A5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciosRepaso.Consola", "EjerciciosRepaso\EjerciciosRepaso.Consola.csproj", "{A1195A8F-AF87-4D9D-8B31-1F64B8612A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciosRepaso.Libreria", "EjerciciosRepaso.Libreria\EjerciciosRepaso.Libreria.csproj", "{1A840E3B-113A-4950-89F8-BE2EBDAF9272}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A1195A8F-AF87-4D9D-8B31-1F64B8612A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1195A8F-AF87-4D9D-8B31-1F64B8612A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1195A8F-AF87-4D9D-8B31-1F64B8612A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A840E3B-113A-4950-89F8-BE2EBDAF9272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A840E3B-113A-4950-89F8-BE2EBDAF9272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A840E3B-113A-4950-89F8-BE2EBDAF9272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A840E3B-113A-4950-89F8-BE2EBDAF9272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -99,8 +99,7 @@ namespace EjerciciosRepaso
 
         static void Ej3()
         {
-            Console.WriteLine("Ingrese una palabra");
-            string palabra = Console.ReadLine();
+            string palabra = Validaciones.Validaciones.ValidarStrNoVac("Ingrese una palabra");
             string palabraInvertida= Funciones.InvertirLetrasPalabra(palabra);
             if(palabra==palabraInvertida)
             { Console.WriteLine("Es palídromo"); }
@@ -110,10 +109,8 @@ namespace EjerciciosRepaso
 
         static void Ej4()
         {
-            Console.WriteLine("Ingrese una palabra");
-            string palabra1 = Console.ReadLine();
-            Console.WriteLine("Ingrese otra palabra");
-            string palabra2 = Console.ReadLine();
+            string palabra1 = Validaciones.Validaciones.ValidarStrNoVac("Ingrese una palabra");
+            string palabra2 = Validaciones.Validaciones.ValidarStrNoVac("Ingrese una palabra");
             string palabra1Ordenada = Funciones.OrdenarLetrasPalabra(palabra1); 
             string palabra2Ordenada = Funciones.OrdenarLetrasPalabra(palabra2);
             if (palabra1Ordenada == palabra2Ordenada)
@@ -128,8 +125,7 @@ namespace EjerciciosRepaso
 
         static void Ej5()
         {
-            Console.WriteLine("Ingrese un número");
-            string palabra = Console.ReadLine();
+            string palabra = Validaciones.Validaciones.ValidarStrNoVac("Ingrese un número");
             string palabraInvertida = Funciones.InvertirLetrasPalabra(palabra);
             Console.WriteLine(palabraInvertida); 
         }
