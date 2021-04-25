@@ -1,0 +1,7 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Repaso\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe.config
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Repaso\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Repaso\EjerciciosRepaso\EjerciciosRepaso\bin\Debug\EjerciciosRepaso.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Repaso\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Repaso\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Repaso\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\Repaso\EjerciciosRepaso\EjerciciosRepaso\obj\Debug\EjerciciosRepaso.pdb
